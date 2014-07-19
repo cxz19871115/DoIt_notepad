@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <string name="app_name">DoIt_notepad</string>
+    <string name="todolist_title">To do list</string>
+    <string name="finishedlist_title">Finished Items</string>
+    <string name="newitem_title">New Item</string>
+    <string name="itemdetails_title">Item Details</string>
+    <string name="action_finished">Finished Items</string>
+    <string name="action_about">About</string>
+    <string name="action_exit">Exit</string>
+    <string name="press_again_exit">再按一次退出记事本...</string>
+
+</resources>
